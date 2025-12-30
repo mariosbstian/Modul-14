@@ -2,7 +2,7 @@
 <p align="center">Mario Sebastian Barus</p>
 
 ## Dasar Teori
-Graph adalah struktur data yang digunakan untuk menggambarkan hubungan antar objek melalui **simpul (node)** dan **sisi (edge)**, yang bisa bersifat **terarah** maupun **tidak terarah**. Graph biasanya direpresentasikan dengan **adjacency list** atau **adjacency matrix**, sehingga memudahkan operasi seperti **menambah**, **menghapus**, dan **menghubungkan simpul**. Penelusuran graph bisa dilakukan dengan **DFS** (menjelajahi sedalam mungkin) atau **BFS** (menjelajahi per tingkat), yang sangat berguna untuk pemetaan jalur dan analisis jaringan.
+Graph adalah struktur data yang digunakan untuk menggambarkan hubungan antar objek melalui simpul (node) dan sisi (edge), yang bisa bersifat terarah maupun tidak terarah Graph biasanya direpresentasikan dengan adjacency list atau adjacency matrix, sehingga memudahkan operasi seperti menambah, menghapus, dan **menghubungkan simpul. Penelusuran graph bisa dilakukan dengan DFS (menjelajahi sedalam mungkin) atau BFS (menjelajahi per tingkat), yang sangat berguna untuk pemetaan jalur dan analisis jaringan.
 ## Guided 
 
 ### main.cpp
